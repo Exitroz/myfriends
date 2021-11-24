@@ -1,0 +1,18 @@
+.cat{
+	background-color: green;
+	display: inline-block;
+	padding: 5px;
+	border: 2px;
+	margin: 10px;
+	box-shadow: 5px 5px;
+	text-align: center;
+	border-radius: 10px;
+	cursor: pointer;
+
+}
+.cat:hover{
+	
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
